@@ -43,7 +43,7 @@ Me especializo en:
 ### 📫 Conectemos
 Me apasiona aplicar la ciencia de datos en sectores como **Finanzas Corporativas** y **Trading**. Si buscas una colaboradora detallista y con visión de producto, ¡hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-marlene-rivero-3b0390b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiamrivero-data/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/repos?q=owner%3A%40me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clauuhrivero@gmail.com)
 ---
